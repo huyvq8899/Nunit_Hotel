@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QuanLyTTTHDataSet" targetNamespace="http://tempuri.org/QuanLyTTTHDataSet.xsd" xmlns:mstns="http://tempuri.org/QuanLyTTTHDataSet.xsd" xmlns="http://tempuri.org/QuanLyTTTHDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QuanLyTTTHConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="QuanLyTTTHConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TrungTamTinHoc.Properties.Settings.GlobalReference.Default.QuanLyTTTHConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewhvthilaiTableAdapter" GeneratorDataComponentClassName="ViewhvthilaiTableAdapter" Name="Viewhvthilai" UserDataComponentName="ViewhvthilaiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QuanLyTTTHConnectionString (Settings)" DbObjectName="QuanLyTTTH.dbo.Viewhvthilai" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, makh, malop, tongdiem FROM dbo.Viewhvthilai</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+              <Mapping SourceColumn="malop" DataSetColumn="malop" />
+              <Mapping SourceColumn="tongdiem" DataSetColumn="tongdiem" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QuanLyTTTHDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="QuanLyTTTHDataSet" msprop:Generator_DataSetName="QuanLyTTTHDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Viewhvthilai" msprop:Generator_UserTableName="Viewhvthilai" msprop:Generator_RowDeletedName="ViewhvthilaiRowDeleted" msprop:Generator_TableClassName="ViewhvthilaiDataTable" msprop:Generator_RowChangedName="ViewhvthilaiRowChanged" msprop:Generator_RowClassName="ViewhvthilaiRow" msprop:Generator_RowChangingName="ViewhvthilaiRowChanging" msprop:Generator_RowEvArgName="ViewhvthilaiRowChangeEvent" msprop:Generator_RowEvHandlerName="ViewhvthilaiRowChangeEventHandler" msprop:Generator_TablePropName="Viewhvthilai" msprop:Generator_TableVarName="tableViewhvthilai" msprop:Generator_RowDeletingName="ViewhvthilaiRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="makh" msprop:Generator_UserColumnName="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_ColumnPropNameInTable="makhColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="malop" msprop:Generator_UserColumnName="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_ColumnPropNameInTable="malopColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tongdiem" msprop:Generator_UserColumnName="tongdiem" msprop:Generator_ColumnPropNameInRow="tongdiem" msprop:Generator_ColumnVarNameInTable="columntongdiem" msprop:Generator_ColumnPropNameInTable="tongdiemColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

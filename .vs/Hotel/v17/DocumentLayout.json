@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|d:\\project-pmbk\\os\\small_hotel\\trungtamtinhoc\\hotelunittest\\tutorialunittest\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|solutionrelative:hotelunittest\\tutorialunittest\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|d:\\project-pmbk\\os\\small_hotel\\trungtamtinhoc\\hotelunittest\\tutorialunittest\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|solutionrelative:hotelunittest\\tutorialunittest\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TrungTamTinHoc||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|d:\\project-pmbk\\os\\small_hotel\\trungtamtinhoc\\trungtamtinhoc\\danhmuc\\hoadon\\sqlcommandhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\hoadon\\sqlcommandhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\hotelunittest\\hoadonunittest\\inputdatafieldinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|solutionrelative:hotelunittest\\hoadonunittest\\inputdatafieldinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\hotelunittest\\unittestphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|solutionrelative:hotelunittest\\unittestphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\hotelunittest\\hoadonunittest\\saveinforinvoice_unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2BA8FC3-14A1-4833-8285-82FEB4647A64}|HotelUnitTest\\HotelUnitTest.csproj|solutionrelative:hotelunittest\\hoadonunittest\\saveinforinvoice_unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\phong\\sqlcommandphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\phong\\sqlcommandphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\frmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\phong\\formphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\phong\\formphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\vattu\\sqlcommandvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\vattu\\sqlcommandvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\phong\\sqlcommandphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\phong\\sqlcommandphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\baocao\\sqlcommandbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\baocao\\sqlcommandbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\baocao\\formthongkedatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\baocao\\formthongkedatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\vattu\\formvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\vattu\\formvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\phong\\formphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\phong\\formphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\datphong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\Hotel.csproj|solutionrelative:trungtamtinhoc\\danhmuc\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7172EF4-D4F9-4C7D-AC7D-D51E0C825510}|TrungTamTinHoc\\TrungTamTinHoc.csproj|d:\\project-pmbk\\os\\small_hotel\\trungtamtinhoc\\trungtamtinhoc\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\TutorialUnitTest\\MathOperations.cs",
+              "RelativeDocumentMoniker": "HotelUnitTest\\TutorialUnitTest\\MathOperations.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\TutorialUnitTest\\MathOperations.cs",
+              "RelativeToolTip": "HotelUnitTest\\TutorialUnitTest\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:41:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathOperationsTests.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\TutorialUnitTest\\MathOperationsTests.cs",
+              "RelativeDocumentMoniker": "HotelUnitTest\\TutorialUnitTest\\MathOperationsTests.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\TutorialUnitTest\\MathOperationsTests.cs",
+              "RelativeToolTip": "HotelUnitTest\\TutorialUnitTest\\MathOperationsTests.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:40:13.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputDataFieldInvoice.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\HoaDonUnitTest\\InputDataFieldInvoice.cs",
+              "RelativeDocumentMoniker": "HotelUnitTest\\HoaDonUnitTest\\InputDataFieldInvoice.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\HoaDonUnitTest\\InputDataFieldInvoice.cs",
+              "RelativeToolTip": "HotelUnitTest\\HoaDonUnitTest\\InputDataFieldInvoice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:37:24.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLCommandHoaDon.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\SQLCommandHoaDon.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\HoaDon\\SQLCommandHoaDon.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\SQLCommandHoaDon.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\HoaDon\\SQLCommandHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:33:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmain.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frmain.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\frmain.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAwwDIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T15:48:07.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\Program.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\Program.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\Program.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:47:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frlogin.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frlogin.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\frlogin.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:47:43.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frlogin.cs [Design]",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frlogin.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs [Design]",
+              "RelativeToolTip": "TrungTamTinHoc\\frlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:47:45.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrungTamTinHoc",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\TrungTamTinHoc.csproj",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\TrungTamTinHoc.csproj",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\TrungTamTinHoc.csproj",
+              "RelativeToolTip": "TrungTamTinHoc\\TrungTamTinHoc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T17:07:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveInforInvoice_UnitTest.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\HoaDonUnitTest\\SaveInforInvoice_UnitTest.cs",
+              "RelativeDocumentMoniker": "HotelUnitTest\\HoaDonUnitTest\\SaveInforInvoice_UnitTest.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\HoaDonUnitTest\\SaveInforInvoice_UnitTest.cs",
+              "RelativeToolTip": "HotelUnitTest\\HoaDonUnitTest\\SaveInforInvoice_UnitTest.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAmwJYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:18:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlCommandPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:40:17.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTestPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\UnitTestPhong.cs",
+              "RelativeDocumentMoniker": "HotelUnitTest\\UnitTestPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\HotelUnitTest\\UnitTestPhong.cs",
+              "RelativeToolTip": "HotelUnitTest\\UnitTestPhong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:24:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormDatPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T16:10:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DataContext\\DataContext.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DataContext\\DataContext.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DataContext\\DataContext.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DataContext\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:58:13.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T16:10:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:42:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs [Design]",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T16:28:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmain.cs [Design]",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frmain.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs [Design]",
+              "RelativeToolTip": "TrungTamTinHoc\\frmain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T16:34:53.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.Designer.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.Designer.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAWwGUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-17T16:44:47.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlCommandVatTu.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\VatTu\\SqlCommandVatTu.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\VatTu\\SqlCommandVatTu.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\VatTu\\SqlCommandVatTu.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\VatTu\\SqlCommandVatTu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:57:30.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmain.Designer.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.Designer.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frmain.Designer.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.Designer.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\frmain.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-17T16:00:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormVatTu.cs [Design]",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\VatTu\\FormVatTu.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\VatTu\\FormVatTu.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\VatTu\\FormVatTu.cs [Design]",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\VatTu\\FormVatTu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:57:28.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SqlCommandPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\Phong\\SqlCommandPhong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:54:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SQLCommandBaoCao.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\BaoCao\\SQLCommandBaoCao.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\BaoCao\\SQLCommandBaoCao.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\BaoCao\\SQLCommandBaoCao.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\BaoCao\\SQLCommandBaoCao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:34:37.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frlogin.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frlogin.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frlogin.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\frlogin.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:24:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmain.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\frmain.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\frmain.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\frmain.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:21:57.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\Phong\\FormPhong.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAMwNkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:15:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormThongKeDatPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\BaoCao\\FormThongKeDatPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\BaoCao\\FormThongKeDatPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\BaoCao\\FormThongKeDatPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\BaoCao\\FormThongKeDatPhong.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAMwDoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:08:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAywEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-16T16:56:57.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\HoaDon\\FormHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:13:14.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormDatPhong.cs",
+              "DocumentMoniker": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "RelativeDocumentMoniker": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "ToolTip": "D:\\Project-PMBK\\OS\\Small_hotel\\TrungTamTinHoc\\TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "RelativeToolTip": "TrungTamTinHoc\\DanhMuc\\DatPhong\\FormDatPhong.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-16T16:11:56.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

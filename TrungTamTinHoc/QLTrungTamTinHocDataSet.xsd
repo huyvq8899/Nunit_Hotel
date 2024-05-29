@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QLTrungTamTinHocDataSet" targetNamespace="http://tempuri.org/QLTrungTamTinHocDataSet.xsd" xmlns:mstns="http://tempuri.org/QLTrungTamTinHocDataSet.xsd" xmlns="http://tempuri.org/QLTrungTamTinHocDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLTrungTamTinHocConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="QLTrungTamTinHocConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TrungTamTinHoc.Properties.Settings.GlobalReference.Default.QLTrungTamTinHocConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View1TableAdapter" GeneratorDataComponentClassName="View1TableAdapter" Name="View1" UserDataComponentName="View1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.View1" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, makh FROM dbo.View1</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View2TableAdapter" GeneratorDataComponentClassName="View2TableAdapter" Name="View2" UserDataComponentName="View2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.View2" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, malop, makh FROM dbo.View2</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="malop" DataSetColumn="malop" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewbienlaiTableAdapter" GeneratorDataComponentClassName="ViewbienlaiTableAdapter" Name="Viewbienlai" UserDataComponentName="ViewbienlaiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, makh, hoten, namsinh, diachi, nghenghiep, hocphi FROM dbo.Viewbienlai</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewchungchiTableAdapter" GeneratorDataComponentClassName="viewchungchiTableAdapter" Name="viewchungchi" UserDataComponentName="viewchungchiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.viewchungchi" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, sobl, tongdiem FROM dbo.viewchungchi</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="sobl" DataSetColumn="sobl" />
+              <Mapping SourceColumn="tongdiem" DataSetColumn="tongdiem" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewdiemTableAdapter" GeneratorDataComponentClassName="ViewdiemTableAdapter" Name="Viewdiem" UserDataComponentName="ViewdiemTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, malop, makh, diemthuongky, diemgiuaky, diemcuoiky, tongdiem, xeploai, ghichu FROM dbo.Viewdiem</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewhvdatTableAdapter" GeneratorDataComponentClassName="viewhvdatTableAdapter" Name="viewhvdat" UserDataComponentName="viewhvdatTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.viewhvdat" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, malop, hoten, namsinh, diachi, nghenghiep, tongdiem, xeploai, ghichu FROM dbo.viewhvdat</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="malop" DataSetColumn="malop" />
+              <Mapping SourceColumn="hoten" DataSetColumn="hoten" />
+              <Mapping SourceColumn="namsinh" DataSetColumn="namsinh" />
+              <Mapping SourceColumn="diachi" DataSetColumn="diachi" />
+              <Mapping SourceColumn="nghenghiep" DataSetColumn="nghenghiep" />
+              <Mapping SourceColumn="tongdiem" DataSetColumn="tongdiem" />
+              <Mapping SourceColumn="xeploai" DataSetColumn="xeploai" />
+              <Mapping SourceColumn="ghichu" DataSetColumn="ghichu" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewhvthilaiTableAdapter" GeneratorDataComponentClassName="viewhvthilaiTableAdapter" Name="viewhvthilai" UserDataComponentName="viewhvthilaiTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.viewhvthilai" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT mahv, hoten, namsinh, diachi, nghenghiep, makh, malop, tongdiem FROM dbo.viewhvthilai</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="mahv" DataSetColumn="mahv" />
+              <Mapping SourceColumn="hoten" DataSetColumn="hoten" />
+              <Mapping SourceColumn="namsinh" DataSetColumn="namsinh" />
+              <Mapping SourceColumn="diachi" DataSetColumn="diachi" />
+              <Mapping SourceColumn="nghenghiep" DataSetColumn="nghenghiep" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+              <Mapping SourceColumn="malop" DataSetColumn="malop" />
+              <Mapping SourceColumn="tongdiem" DataSetColumn="tongdiem" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewthoikhoabieuTableAdapter" GeneratorDataComponentClassName="viewthoikhoabieuTableAdapter" Name="viewthoikhoabieu" UserDataComponentName="viewthoikhoabieuTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLTrungTamTinHocConnectionString (Settings)" DbObjectName="QLTrungTamTinHoc.dbo.viewthoikhoabieu" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT malop, maphong, magv, makh FROM dbo.viewthoikhoabieu</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="malop" DataSetColumn="malop" />
+              <Mapping SourceColumn="maphong" DataSetColumn="maphong" />
+              <Mapping SourceColumn="magv" DataSetColumn="magv" />
+              <Mapping SourceColumn="makh" DataSetColumn="makh" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QLTrungTamTinHocDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="QLTrungTamTinHocDataSet" msprop:Generator_DataSetName="QLTrungTamTinHocDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View1" msprop:Generator_UserTableName="View1" msprop:Generator_RowDeletedName="View1RowDeleted" msprop:Generator_TableClassName="View1DataTable" msprop:Generator_RowChangedName="View1RowChanged" msprop:Generator_RowClassName="View1Row" msprop:Generator_RowChangingName="View1RowChanging" msprop:Generator_RowEvArgName="View1RowChangeEvent" msprop:Generator_RowEvHandlerName="View1RowChangeEventHandler" msprop:Generator_TablePropName="View1" msprop:Generator_TableVarName="tableView1" msprop:Generator_RowDeletingName="View1RowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="makh" msprop:Generator_UserColumnName="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_ColumnPropNameInTable="makhColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="View2" msprop:Generator_UserTableName="View2" msprop:Generator_RowDeletedName="View2RowDeleted" msprop:Generator_TableClassName="View2DataTable" msprop:Generator_RowChangedName="View2RowChanged" msprop:Generator_RowClassName="View2Row" msprop:Generator_RowChangingName="View2RowChanging" msprop:Generator_RowEvArgName="View2RowChangeEvent" msprop:Generator_RowEvHandlerName="View2RowChangeEventHandler" msprop:Generator_TablePropName="View2" msprop:Generator_TableVarName="tableView2" msprop:Generator_RowDeletingName="View2RowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="malop" msprop:Generator_UserColumnName="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_ColumnPropNameInTable="malopColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="makh" msprop:Generator_UserColumnName="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_ColumnPropNameInTable="makhColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Viewbienlai" msprop:Generator_UserTableName="Viewbienlai" msprop:Generator_RowDeletedName="ViewbienlaiRowDeleted" msprop:Generator_TableClassName="ViewbienlaiDataTable" msprop:Generator_RowChangedName="ViewbienlaiRowChanged" msprop:Generator_RowClassName="ViewbienlaiRow" msprop:Generator_RowChangingName="ViewbienlaiRowChanging" msprop:Generator_RowEvArgName="ViewbienlaiRowChangeEvent" msprop:Generator_RowEvHandlerName="ViewbienlaiRowChangeEventHandler" msprop:Generator_TablePropName="Viewbienlai" msprop:Generator_TableVarName="tableViewbienlai" msprop:Generator_RowDeletingName="ViewbienlaiRowDeleting">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="viewchungchi" msprop:Generator_UserTableName="viewchungchi" msprop:Generator_RowDeletedName="viewchungchiRowDeleted" msprop:Generator_TableClassName="viewchungchiDataTable" msprop:Generator_RowChangedName="viewchungchiRowChanged" msprop:Generator_RowClassName="viewchungchiRow" msprop:Generator_RowChangingName="viewchungchiRowChanging" msprop:Generator_RowEvArgName="viewchungchiRowChangeEvent" msprop:Generator_RowEvHandlerName="viewchungchiRowChangeEventHandler" msprop:Generator_TablePropName="viewchungchi" msprop:Generator_TableVarName="tableviewchungchi" msprop:Generator_RowDeletingName="viewchungchiRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sobl" msprop:Generator_UserColumnName="sobl" msprop:Generator_ColumnPropNameInRow="sobl" msprop:Generator_ColumnVarNameInTable="columnsobl" msprop:Generator_ColumnPropNameInTable="soblColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tongdiem" msprop:Generator_UserColumnName="tongdiem" msprop:Generator_ColumnPropNameInRow="tongdiem" msprop:Generator_ColumnVarNameInTable="columntongdiem" msprop:Generator_ColumnPropNameInTable="tongdiemColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Viewdiem" msprop:Generator_UserTableName="Viewdiem" msprop:Generator_RowDeletedName="ViewdiemRowDeleted" msprop:Generator_TableClassName="ViewdiemDataTable" msprop:Generator_RowChangedName="ViewdiemRowChanged" msprop:Generator_RowClassName="ViewdiemRow" msprop:Generator_RowChangingName="ViewdiemRowChanging" msprop:Generator_RowEvArgName="ViewdiemRowChangeEvent" msprop:Generator_RowEvHandlerName="ViewdiemRowChangeEventHandler" msprop:Generator_TablePropName="Viewdiem" msprop:Generator_TableVarName="tableViewdiem" msprop:Generator_RowDeletingName="ViewdiemRowDeleting">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="viewhvdat" msprop:Generator_UserTableName="viewhvdat" msprop:Generator_RowDeletedName="viewhvdatRowDeleted" msprop:Generator_TableClassName="viewhvdatDataTable" msprop:Generator_RowChangedName="viewhvdatRowChanged" msprop:Generator_RowClassName="viewhvdatRow" msprop:Generator_RowChangingName="viewhvdatRowChanging" msprop:Generator_RowEvArgName="viewhvdatRowChangeEvent" msprop:Generator_RowEvHandlerName="viewhvdatRowChangeEventHandler" msprop:Generator_TablePropName="viewhvdat" msprop:Generator_TableVarName="tableviewhvdat" msprop:Generator_RowDeletingName="viewhvdatRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="malop" msprop:Generator_UserColumnName="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_ColumnPropNameInTable="malopColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="hoten" msprop:Generator_UserColumnName="hoten" msprop:Generator_ColumnPropNameInRow="hoten" msprop:Generator_ColumnVarNameInTable="columnhoten" msprop:Generator_ColumnPropNameInTable="hotenColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namsinh" msprop:Generator_UserColumnName="namsinh" msprop:Generator_ColumnPropNameInRow="namsinh" msprop:Generator_ColumnVarNameInTable="columnnamsinh" msprop:Generator_ColumnPropNameInTable="namsinhColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="diachi" msprop:Generator_UserColumnName="diachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nghenghiep" msprop:Generator_UserColumnName="nghenghiep" msprop:Generator_ColumnPropNameInRow="nghenghiep" msprop:Generator_ColumnVarNameInTable="columnnghenghiep" msprop:Generator_ColumnPropNameInTable="nghenghiepColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tongdiem" msprop:Generator_UserColumnName="tongdiem" msprop:Generator_ColumnPropNameInRow="tongdiem" msprop:Generator_ColumnVarNameInTable="columntongdiem" msprop:Generator_ColumnPropNameInTable="tongdiemColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="xeploai" msprop:Generator_UserColumnName="xeploai" msprop:Generator_ColumnPropNameInRow="xeploai" msprop:Generator_ColumnVarNameInTable="columnxeploai" msprop:Generator_ColumnPropNameInTable="xeploaiColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ghichu" msprop:Generator_UserColumnName="ghichu" msprop:Generator_ColumnPropNameInRow="ghichu" msprop:Generator_ColumnVarNameInTable="columnghichu" msprop:Generator_ColumnPropNameInTable="ghichuColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="viewhvthilai" msprop:Generator_UserTableName="viewhvthilai" msprop:Generator_RowDeletedName="viewhvthilaiRowDeleted" msprop:Generator_TableClassName="viewhvthilaiDataTable" msprop:Generator_RowChangedName="viewhvthilaiRowChanged" msprop:Generator_RowClassName="viewhvthilaiRow" msprop:Generator_RowChangingName="viewhvthilaiRowChanging" msprop:Generator_RowEvArgName="viewhvthilaiRowChangeEvent" msprop:Generator_RowEvHandlerName="viewhvthilaiRowChangeEventHandler" msprop:Generator_TablePropName="viewhvthilai" msprop:Generator_TableVarName="tableviewhvthilai" msprop:Generator_RowDeletingName="viewhvthilaiRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="mahv" msprop:Generator_UserColumnName="mahv" msprop:Generator_ColumnPropNameInRow="mahv" msprop:Generator_ColumnVarNameInTable="columnmahv" msprop:Generator_ColumnPropNameInTable="mahvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="hoten" msprop:Generator_UserColumnName="hoten" msprop:Generator_ColumnPropNameInRow="hoten" msprop:Generator_ColumnVarNameInTable="columnhoten" msprop:Generator_ColumnPropNameInTable="hotenColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namsinh" msprop:Generator_UserColumnName="namsinh" msprop:Generator_ColumnPropNameInRow="namsinh" msprop:Generator_ColumnVarNameInTable="columnnamsinh" msprop:Generator_ColumnPropNameInTable="namsinhColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="diachi" msprop:Generator_UserColumnName="diachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nghenghiep" msprop:Generator_UserColumnName="nghenghiep" msprop:Generator_ColumnPropNameInRow="nghenghiep" msprop:Generator_ColumnVarNameInTable="columnnghenghiep" msprop:Generator_ColumnPropNameInTable="nghenghiepColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="makh" msprop:Generator_UserColumnName="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_ColumnPropNameInTable="makhColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="malop" msprop:Generator_UserColumnName="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_ColumnPropNameInTable="malopColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tongdiem" msprop:Generator_UserColumnName="tongdiem" msprop:Generator_ColumnPropNameInRow="tongdiem" msprop:Generator_ColumnVarNameInTable="columntongdiem" msprop:Generator_ColumnPropNameInTable="tongdiemColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="viewthoikhoabieu" msprop:Generator_UserTableName="viewthoikhoabieu" msprop:Generator_RowDeletedName="viewthoikhoabieuRowDeleted" msprop:Generator_TableClassName="viewthoikhoabieuDataTable" msprop:Generator_RowChangedName="viewthoikhoabieuRowChanged" msprop:Generator_RowClassName="viewthoikhoabieuRow" msprop:Generator_RowChangingName="viewthoikhoabieuRowChanging" msprop:Generator_RowEvArgName="viewthoikhoabieuRowChangeEvent" msprop:Generator_RowEvHandlerName="viewthoikhoabieuRowChangeEventHandler" msprop:Generator_TablePropName="viewthoikhoabieu" msprop:Generator_TableVarName="tableviewthoikhoabieu" msprop:Generator_RowDeletingName="viewthoikhoabieuRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="malop" msprop:Generator_UserColumnName="malop" msprop:Generator_ColumnPropNameInRow="malop" msprop:Generator_ColumnVarNameInTable="columnmalop" msprop:Generator_ColumnPropNameInTable="malopColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="maphong" msprop:Generator_UserColumnName="maphong" msprop:Generator_ColumnPropNameInRow="maphong" msprop:Generator_ColumnVarNameInTable="columnmaphong" msprop:Generator_ColumnPropNameInTable="maphongColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="magv" msprop:Generator_UserColumnName="magv" msprop:Generator_ColumnPropNameInRow="magv" msprop:Generator_ColumnVarNameInTable="columnmagv" msprop:Generator_ColumnPropNameInTable="magvColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="makh" msprop:Generator_UserColumnName="makh" msprop:Generator_ColumnPropNameInRow="makh" msprop:Generator_ColumnVarNameInTable="columnmakh" msprop:Generator_ColumnPropNameInTable="makhColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View1" />
+      <xs:field xpath="mstns:mahv" />
+    </xs:unique>
+    <xs:unique name="View2_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View2" />
+      <xs:field xpath="mstns:mahv" />
+    </xs:unique>
+    <xs:unique name="viewhvdat_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:viewhvdat" />
+      <xs:field xpath="mstns:mahv" />
+    </xs:unique>
+    <xs:unique name="viewthoikhoabieu_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:viewthoikhoabieu" />
+      <xs:field xpath="mstns:malop" />
+      <xs:field xpath="mstns:magv" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
